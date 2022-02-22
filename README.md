@@ -31,6 +31,15 @@ These projects support iOS, macOS and Linux + aim to support Android & Windows.
 
 # Things I'm Tracking
 
+**Vapor**
+1. [GraphQL Server w/ Vapor](https://github.com/nerdsupremacist/GraphZahl)
+2. [PNG](https://github.com/kelvin13/png) and [JPEG](https://github.com/kelvin13/jpeg) in Swift
+3. 
+
+**iOS**
+1. [GraphQL Client](https://github.com/nerdsupremacist/Graphaello) and [Another GraphQL Client](
+
+**Multiplatform**
 1. [Swift on Android](https://github.com/vgorloff/swift-everywhere-toolchain)
 2. [Win32 for Swift on Windows](https://github.com/compnerd/swift-win32)
 3. [Swift in the Webbrowser](https://swiftwasm.org) with [a matching UI Framework](https://github.com/TokamakUI/Tokamak)
@@ -41,4 +50,5 @@ These projects support iOS, macOS and Linux + aim to support Android & Windows.
 
 ## Also Cool
 
-8. [DirectX in Swift](https://github.com/compnerd/DXSample) 
+1. [DirectX in Swift](https://github.com/compnerd/DXSample)
+2. [State Synchronization between clients](https://github.com/nerdsupremacist/Sync)
