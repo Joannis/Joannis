@@ -37,7 +37,7 @@ These projects support iOS, macOS and Linux + aim to support Android & Windows.
 3. [QRCodeGenerator](https://github.com/BlockchainCommons/QRCodeGenerator) for any platform in Swift
 
 **iOS**
-1. [GraphQL Client](https://github.com/nerdsupremacist/Graphaello) and [Another GraphQL Client](
+1. [GraphQL Client](https://github.com/nerdsupremacist/Graphaello)
 
 **Multiplatform**
 1. [Swift on Android](https://github.com/vgorloff/swift-everywhere-toolchain)
