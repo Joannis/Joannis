@@ -46,7 +46,7 @@ These projects support iOS, macOS and Linux + aim to support Android & Windows.
 4. [Swift UI Applications on Linux using GTK](https://github.com/rhx/SwiftGtk)
 5. [Swift + NodeJS Bindings](https://github.com/LinusU/swift-napi-bindings)
 6. [Swift + Python Bindings](https://github.com/pvieito/PythonKit)
-7. [Custom Swift stdlib for low-resource environmets](https://github.com/compnerd/uswift)
+7. [Custom Swift stdlib for low-resource environments](https://github.com/compnerd/uswift)
 
 ## Also Cool
 
