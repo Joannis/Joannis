@@ -34,6 +34,7 @@ These projects support iOS, macOS and Linux + aim to support Android & Windows.
 **Vapor**
 1. [GraphQL Server w/ Vapor](https://github.com/nerdsupremacist/GraphZahl)
 2. [PNG](https://github.com/kelvin13/png) and [JPEG](https://github.com/kelvin13/jpeg) in Swift
+3. [QRCodeGenerator](https://github.com/BlockchainCommons/QRCodeGenerator) for any platform in Swift
 
 **iOS**
 1. [GraphQL Client](https://github.com/nerdsupremacist/Graphaello) and [Another GraphQL Client](
