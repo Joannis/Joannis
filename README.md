@@ -10,7 +10,7 @@ These projects focus on Linux & macOS, but also support iOS.
 - Creator of [MongoQueue](https://github.com/orlandos-nl/MongoQueue), a JobQueue library for MongoDB using MongoKitten
 - Creator of [IkigaJSON](https://github.com/orlandos-nl/IkigaJSON), a faster and more scalable JSON library with helpers for JSON editing tools.
 - Collaborator for [NIOSSH](https://github.com/apple/swift-nio-ssh), client & server implementations for SSH
-- [Citadel](https://github.com/orlandos-nl/Citadel), a high SSH client based on NIOSSH
+- [Citadel](https://github.com/orlandos-nl/Citadel), a high level SSH client based on NIOSSH
 
 **Low Profile**
 - [SMTPKitten](https://github.com/Joannis/SMTPKitten), an SMTP client with [Vapor Helpers](https://github.com/Joannis/VaporSMTPKit)
