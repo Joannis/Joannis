@@ -48,6 +48,7 @@ These projects support iOS, macOS and Linux + aim to support Android & Windows.
 5. [Swift + NodeJS Bindings](https://github.com/LinusU/swift-napi-bindings)
 6. [Swift + Python Bindings](https://github.com/pvieito/PythonKit)
 7. [Custom Swift stdlib for low-resource environments](https://github.com/compnerd/uswift)
+8. [Bare Metal Kernel in Swift](https://si.org/projects/project1/)
 
 ## Also Cool
 
