@@ -40,6 +40,14 @@ These projects support iOS, macOS and Linux + aim to support Android & Windows.
 **iOS**
 1. [GraphQL Client](https://github.com/nerdsupremacist/Graphaello)
 
+**Server**
+1. https://github.com/funcmike/rabbitmq-nio
+
+**Embedded**:
+1. https://madmachine.io
+2. [Custom Swift stdlib for low-resource environments](https://github.com/compnerd/uswift)
+3. [Bare Metal Kernel in Swift](https://si.org/projects/project1/)
+
 **Multiplatform**
 1. [Swift on Android](https://github.com/vgorloff/swift-everywhere-toolchain)
 2. [Win32 for Swift on Windows](https://github.com/compnerd/swift-win32)
@@ -47,8 +55,6 @@ These projects support iOS, macOS and Linux + aim to support Android & Windows.
 4. [Swift UI Applications on Linux using GTK](https://github.com/rhx/SwiftGtk)
 5. [Swift + NodeJS Bindings](https://github.com/LinusU/swift-napi-bindings)
 6. [Swift + Python Bindings](https://github.com/pvieito/PythonKit)
-7. [Custom Swift stdlib for low-resource environments](https://github.com/compnerd/uswift)
-8. [Bare Metal Kernel in Swift](https://si.org/projects/project1/)
 
 ## Also Cool
 
