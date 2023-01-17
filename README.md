@@ -49,7 +49,7 @@ These projects support iOS, macOS and Linux + aim to support Android & Windows.
 3. [Bare Metal Kernel in Swift](https://si.org/projects/project1/)
 
 **Multiplatform**
-1. [Swift on Android](https://github.com/vgorloff/swift-everywhere-toolchain)
+1. [Swift on Android](https://github.com/vgorloff/swift-everywhere-toolchain) and [Another One](https://github.com/readdle/swift-android-toolchain)
 2. [Win32 for Swift on Windows](https://github.com/compnerd/swift-win32)
 3. [Swift in the Webbrowser](https://swiftwasm.org) with [a matching UI Framework](https://github.com/TokamakUI/Tokamak)
 4. [Swift UI Applications on Linux using GTK](https://github.com/rhx/SwiftGtk)
