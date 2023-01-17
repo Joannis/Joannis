@@ -42,6 +42,7 @@ These projects support iOS, macOS and Linux + aim to support Android & Windows.
 
 **Server**
 1. https://github.com/funcmike/rabbitmq-nio
+2. https://github.com/adam-fowler/compress-nio
 
 **Embedded**:
 1. https://madmachine.io
