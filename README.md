@@ -8,6 +8,8 @@ These projects focus on Linux & macOS, but also support iOS.
 - Maintainer of [Vapor 💧](https://github.com/vapor/vapor) and various related libraries. Vapor is a Web Framework in & for Swift.
 - Creator of [MongoKitten 🐈](https://github.com/orlandos-nl/MongoKitten), MongoKitten is a MongoDB Driver for Swift. Uses [Swift based BSON](https://github.com/orlandos-nl/bson)
 - Maintainer of [CoreOffice](https://github.com/CoreOffice)
+  - [XMLCoder](https://github.com/CoreOffice/XMLCoder)
+  - [CoreXLSX](https://github.com/CoreOffice/CoreXLSX)
 - Creator of [MongoQueue](https://github.com/orlandos-nl/MongoQueue), a JobQueue library for MongoDB using MongoKitten
 - Creator of [IkigaJSON](https://github.com/orlandos-nl/IkigaJSON), a faster and more scalable JSON library with helpers for JSON editing tools.
 - Collaborator for [NIOSSH](https://github.com/apple/swift-nio-ssh), client & server implementations for SSH
