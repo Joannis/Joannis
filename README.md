@@ -15,7 +15,7 @@ These projects focus on Linux & macOS, but also support iOS.
 
 **Low Profile**
 - [SMTPKitten](https://github.com/Joannis/SMTPKitten), an SMTP client with [Vapor Helpers](https://github.com/Joannis/VaporSMTPKit)
-- [NIODNS](https://github.com/orlandos-nl/NioDNS), Asynchronous DNS Client
+- [DNSClient](https://github.com/orlandos-nl/DNSClient), Asynchronous DNS Client
 - [TemplateKit](https://github.com/orlandos-nl/TemplateKit), a high performance framework for building better templating libraries - Work In Progress
 - [Dribble](https://github.com/orlandos-nl/Dribble), a STUN client implementation in Swift (TURN is WIP
 
