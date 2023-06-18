@@ -7,6 +7,7 @@ These projects focus on Linux & macOS, but also support iOS.
 **High Profile**
 - Maintainer of [Vapor 💧](https://github.com/vapor/vapor) and various related libraries. Vapor is a Web Framework in & for Swift.
 - Creator of [MongoKitten 🐈](https://github.com/orlandos-nl/MongoKitten), MongoKitten is a MongoDB Driver for Swift. Uses [Swift based BSON](https://github.com/orlandos-nl/bson)
+- Co-Maintainer of [RediStack](https://github.com/swift-server/RediStack)
 - Maintainer of [CoreOffice](https://github.com/CoreOffice)
   - [XMLCoder](https://github.com/CoreOffice/XMLCoder)
   - [CoreXLSX](https://github.com/CoreOffice/CoreXLSX)
