@@ -1,4 +1,4 @@
-👋 Hey! I'm Joannis. I maintain a lot of Swift Projects, in particular for Server-Side Swift.
+👋 Hey! I'm Joannis. I maintain a lot of Swift Projects, in particular for Server-Side Swift. I'm also a member of the [Swift Server WorkGroup](https://swift.org/sswg)
 
 # Backend Focussed Projects
 
@@ -15,6 +15,9 @@ These projects focus on Linux & macOS, but also support iOS.
 - Creator of [IkigaJSON](https://github.com/orlandos-nl/IkigaJSON), a faster and more scalable JSON library with helpers for JSON editing tools.
 - Collaborator for [NIOSSH](https://github.com/apple/swift-nio-ssh), client & server implementations for SSH
 - [Citadel](https://github.com/orlandos-nl/Citadel), a high level SSH client based on NIOSSH
+
+**Involvements**
+- I help review PRs for [Hummingbird](https://github.com/hummingbird-project)
 
 **Low Profile**
 - [SMTPKitten](https://github.com/Joannis/SMTPKitten), an SMTP client with [Vapor Helpers](https://github.com/Joannis/VaporSMTPKit)
