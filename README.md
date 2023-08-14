@@ -4,7 +4,7 @@ In addition to my OpenSource work - listed below - I'm also providing services s
 
 # Backend Focussed Projects
 
-These projects focus on Linux & macOS, but also support iOS.
+These projects focus on Linux & macOS, but also support iOS in most cases through NIOTransportServices.
 
 **High Profile**
 - Maintainer of [Vapor 💧](https://github.com/vapor/vapor) and various related libraries. Vapor is a Web Framework in & for Swift.
