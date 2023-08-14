@@ -1,4 +1,6 @@
-👋 Hey! I'm Joannis. I maintain a lot of Swift Projects, in particular for Server-Side Swift. I'm also a member of the [Swift Server WorkGroup](https://swift.org/sswg)
+👋 Hey! I'm Joannis. I maintain a lot of Swift Projects, in particular for Server-Side Swift. I'm also a member of the [Swift Server WorkGroup](https://swift.org/sswg).
+
+In addition to my OpenSource work - listed below - I'm also providing services such as **Code Review**, **Swift Backend Development**, **iOS/macOS Development** and **Mentoring** opportunities.
 
 # Backend Focussed Projects
 
