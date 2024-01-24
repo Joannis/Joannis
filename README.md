@@ -7,7 +7,6 @@ In addition to my OpenSource work - listed below - I'm also providing services s
 These projects focus on Linux & macOS, but also support iOS in most cases through NIOTransportServices.
 
 **High Profile**
-- Maintainer of [Vapor 💧](https://github.com/vapor/vapor) and various related libraries. Vapor is a Web Framework in & for Swift.
 - Creator of [MongoKitten 🐈](https://github.com/orlandos-nl/MongoKitten), MongoKitten is a MongoDB Driver for Swift. Uses [Swift based BSON](https://github.com/orlandos-nl/bson)
 - Co-Maintainer of [RediStack](https://github.com/swift-server/RediStack)
 - Maintainer of [CoreOffice](https://github.com/CoreOffice)
@@ -18,6 +17,7 @@ These projects focus on Linux & macOS, but also support iOS in most cases throug
 - Collaborator for [NIOSSH](https://github.com/apple/swift-nio-ssh), client & server implementations for SSH
 - [Citadel](https://github.com/orlandos-nl/Citadel), a high level SSH client based on NIOSSH
 - Maintainer for [Hummingbird](https://github.com/hummingbird-project)
+- Previously Core Team @ [Vapor 💧](https://github.com/vapor/vapor) and various related libraries. Vapor is a Web Framework in & for Swift.
 
 **Low Profile**
 - [SMTPKitten](https://github.com/Joannis/SMTPKitten), an SMTP client with [Vapor Helpers](https://github.com/Joannis/VaporSMTPKit)
