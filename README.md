@@ -33,7 +33,7 @@ These projects support iOS, macOS and Linux + aim to support Android & Windows.
 - Inventor of [CypherTextKit](https://github.com/orlandos-nl/CypherTextKit), an SDK allowing low-effort integration of [signal-based end-to-end encryption](https://www.signal.org/docs/specifications/doubleratchet/).
 
 **Low Profile**
-- [TaskQueue](https://github.com/Joannis/TaskQueue) - speaks for itself
+- [TaskQueue](https://github.com/Joannis/TaskQueue) - speaks for itself (deprecated)
 - [SC2Kit](https://github.com/Joannis/SC2Kit) - Write StarCraft 2 bots in Swift
 
 # Things I'm Tracking
