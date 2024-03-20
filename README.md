@@ -1,6 +1,8 @@
+![Joannis Header](https://github.com/Joannis/Joannis/assets/1951674/5ce809c0-4478-4274-b6d7-d90246551aba)
+
 👋 Hey! I'm Joannis. I maintain a lot of Swift Projects, in particular for Server-Side Swift. I'm also a member of the [Swift Server WorkGroup](https://swift.org/sswg).
 
-In addition to my OpenSource work - listed below - I'm also providing services such as **Code Review**, **Swift Backend Development**, **iOS/macOS Development** and **Mentoring** opportunities.
+In addition to my OpenSource work - listed below - I'm also providing services such as **Code Review**, **Swift Backend Development**, **iOS/macOS Development** and **Mentoring**.
 
 # Backend Focussed Projects
 
