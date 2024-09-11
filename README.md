@@ -1,5 +1,3 @@
-![Joannis Header](https://github.com/Joannis/Joannis/assets/1951674/5ce809c0-4478-4274-b6d7-d90246551aba)
-
 👋 Hey! I'm Joannis, co-founder of [Unbeatable Software B.V.](https://unbeatable.software).
 
 I maintain a lot of Swift Projects, in particular for Server-Side Swift. I'm also a member of the [Swift Server WorkGroup](https://swift.org/sswg).
