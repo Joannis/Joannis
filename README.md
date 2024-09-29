@@ -1,14 +1,14 @@
 👋 Hey! I'm Joannis, co-founder of [Unbeatable Software B.V.](https://unbeatable.software).
 
 I maintain a lot of Swift Projects, in particular for Server-Side Swift. I'm also a member of the [Swift Server WorkGroup](https://swift.org/sswg).
+
 [Read my blog posts, articles and newsletter at swiftonserver.com](https://serversideswift.info)
 
 ### Support Me
 
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/JoannisOrlandos)](https://x.com/JoannisOrlandos) [![Sponsor Me](https://img.shields.io/github/sponsors/joannis)](https://github.com/sponsors/Joannis)
 
-
-In addition to my OpenSource work - listed below - I'm also providing services such as **Code Review**, **Swift Backend Development**, **iOS/macOS Development** and **Mentoring**.
+In addition to my OpenSource work - listed below - I also provide services such as **Swift Backend Development**, **iOS/macOS Development**, **Code Review** and **Mentoring**.
 
 # Backend Focussed Projects
 
