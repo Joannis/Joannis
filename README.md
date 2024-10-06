@@ -8,6 +8,8 @@ I maintain a lot of Swift Projects, in particular for Server-Side Swift. I'm als
 
 In addition to my OpenSource work - listed below - I also provide services such as **Swift Backend Development**, **iOS/macOS Development**, **Code Review** and **Mentoring**.
 
+<a href="https://github.com/ultim8p"><img width="78" src="https://github.com/ultim8p.png" /></a>
+
 # Backend Focussed Projects
 
 These projects focus on Linux & macOS, but also support iOS in most cases through NIOTransportServices.
