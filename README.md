@@ -1,9 +1,13 @@
 👋 Hey! I'm Joannis Orlandos! I'm all about cross-platform Swift development!
 
 👀 I'm currently focussed on my blog, [SwiftOnServer.com](https://swiftonserver.com) and Web Framework - [Hummingbird](https://hummingbird.codes)
+
 🙌 I'm also a member of the [Swift.org Server WorkGroup](https://swift.org/sswg).
+
 🧳 I do Swift consulting for Backend, Systems, Embedded and other platforms.
+
 💬 Ask me about Swift on Linux and Embedded Systems.
+
 🥳 I'm proud of the following projects:
 - The [Vapor](https://vapor.codes) Web Framework
 - Swift-Native Database Drivers, including [MongoKitten](https://github.com/orlandos-nl/MongoKitten)
