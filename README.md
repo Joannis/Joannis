@@ -1,10 +1,11 @@
 - 👋 Hey! I'm Joannis Orlandos! I'm all about cross-platform Swift development!
-- 👀 I'm currently focussed on my blog, [SwiftOnServer.com](https://swiftonserver.com) and Web Framework - [Hummingbird](https://hummingbird.codes)
+- 🧳 [EdgeOS](https://github.com/edgeengineer), the easy-to-use Embedded Linux Distro (all Swift!)
+- 👀 Read my blog - [SwiftOnServer.com](https://swiftonserver.com)!
+- ✨ Check out [Hummingbird](https://hummingbird.codes) for Server development
 - 🙌 I'm also a member of the [Swift.org Server WorkGroup](https://swift.org/sswg)
-- 🧳 I do Swift consulting for Backend, Systems, Embedded and other platforms
+- 🤖 .. and the [Swift.org Android WorkGroup](https://swift.org/sswg)
 - 💬 Ask me about Swift on Linux and Embedded Systems.
-- 🥳 I'm proud of the following projects:
-  - The [Vapor](https://vapor.codes) Web Framework
+- 🥳 I'm proud of the following prior projects:
   - Swift-Native Database Drivers, including [MongoKitten](https://github.com/orlandos-nl/MongoKitten)
   - [Citadel](https://github.com/orlandos-nl/citadel), an SSH & SFTP client and server library
   - ... and a lot of projects as well!
