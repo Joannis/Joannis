@@ -1,5 +1,5 @@
 - 👋 Hey! I'm Joannis Orlandos! I'm all about cross-platform Swift development!
-- 🧳 [EdgeOS](https://github.com/edgeengineer), the easy-to-use Embedded Linux Distro (all Swift!)
+- 🧳 [WendyOS](https://github.com/wendylabcins), the easy-to-use Embedded Linux Distro (all Swift!)
 - 👀 Read my blog - [SwiftOnServer.com](https://swiftonserver.com)!
 - ✨ Check out [Hummingbird](https://hummingbird.codes) for Server development
 - 🙌 I'm also a member of the [Swift.org Server WorkGroup](https://swift.org/sswg)
